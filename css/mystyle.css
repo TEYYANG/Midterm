@@ -1,0 +1,36 @@
+body {
+    background-image: url("../img/background.jpeg");
+    background-repeat: no-repeat;
+    background-attachment:local;
+    background-size: cover;
+}
+
+table {
+    margin: 0 auto;
+    border:1px solid rgb(31, 137, 145);
+    background-color: rgba(141, 233, 245, 0.329);
+    border-radius: 20px;
+}
+
+table img {
+    width: 250px;
+    height: 150px;
+    box-shadow: 3px 3px 10px grey;
+    border:2px solid skyblue ;
+}
+
+table tr td{
+    padding: 0 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    color: black;
+    border:1px solid rgb(31, 137, 145);
+    background-color: rgba(141, 233, 245, 0.329);
+    margin-left: 8%;
+    margin-right: 8%;
+    border-radius: 20px;
+}
